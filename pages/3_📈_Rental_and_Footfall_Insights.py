@@ -15,10 +15,6 @@ st.markdown(
     "Analyze historical **rental bid data** and **estimated foot traffic** "
     "for hawker centres across Singapore to make smarter business decisions."
 )
-st.markdown(
-    "👈 Use the panel on the left to choose your **Region** and **Trade Type**."
-)
-
 st.divider()
 
 # -------------------------------
@@ -198,3 +194,4 @@ st.divider()
 # Footer
 # -------------------------------
 st.caption("HawkerHub © 2025")
+
