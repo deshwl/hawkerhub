@@ -15,8 +15,8 @@ Empowering Singapore’s hawkers for a sustainable, thriving future, while prese
 This platform helps you:
 
 ✅ Estimate your monthly revenue  
-✅ Discover which grants you're eligible for  
-✅ Make better business decisions  
+✅ Discover eligible grants and support schemes  
+✅ Gain insights on rental and footfall trends
 """)
 
 st.divider()
@@ -36,5 +36,6 @@ with col3:
 
 st.divider()
 st.caption("HawkerHub © 2025")
+
 
 
