@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Revenue Estimator", layout="centered")
+st.set_page_config(page_title="Revenue Estimator", layout="wide")
 
 st.title("📊 Revenue Estimator")
 
@@ -90,3 +90,4 @@ st.divider()
 
 # Footer
 st.caption("HawkerHub © 2025")
+
