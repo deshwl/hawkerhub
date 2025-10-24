@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Page settings
-st.set_page_config(page_title="Grant Finder", layout="centered")
+st.set_page_config(page_title="Grant Finder", layout="wide")
 
 # Title
 st.title("🧮 Grant Finder")
@@ -109,3 +109,4 @@ st.info(
 )
 
 st.caption("HawkerHub © 2025")
+
