@@ -8,7 +8,10 @@ st.image("assets/logo.jpg", width=200)
 
 # Introduction
 st.markdown("""
-Welcome to **HawkerHub** — a digital assistant for hawkers in Singapore.  
+Welcome to **HawkerHub**
+
+Empowering Singapore’s hawkers for a sustainable, thriving future —  while preserving the heritage flavours we all love.
+
 This platform helps you:
 
 ✅ Estimate your monthly revenue  
@@ -33,3 +36,4 @@ with col3:
 
 st.divider()
 st.caption("HawkerHub © 2025")
+
