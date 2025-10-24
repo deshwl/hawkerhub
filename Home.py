@@ -10,7 +10,7 @@ st.image("assets/logo.jpg", width=200)
 st.markdown("""
 Welcome to **HawkerHub**
 
-Empowering Singapore’s hawkers for a sustainable, thriving future —  while preserving the heritage flavours we all love.
+Empowering Singapore’s hawkers for a sustainable, thriving future, while preserving the heritage flavours we all love.
 
 This platform helps you:
 
@@ -36,4 +36,5 @@ with col3:
 
 st.divider()
 st.caption("HawkerHub © 2025")
+
 
